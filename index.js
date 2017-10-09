@@ -22,6 +22,9 @@ console.log(sum);
 // create index.js
 // node index.js
 
+// node --inspect-brk index.js
+// Chrome -> chrome://inspect
+
 const Rx = require('rxjs');
 
 const observable = Rx.Observable.create(function (observer) {
