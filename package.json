@@ -1,0 +1,24 @@
+{
+  "name": "reactiveprogramming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sspringer82/reactiveProgramming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sspringer82/reactiveProgramming/issues"
+  },
+  "homepage": "https://github.com/sspringer82/reactiveProgramming#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "rx-dom": "^7.0.3",
+    "rxjs": "^5.4.3"
+  }
+}
